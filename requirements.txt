@@ -3,3 +3,4 @@ python-dotenv
 llama_index
 langchain
 streamlit-chat
+transformers

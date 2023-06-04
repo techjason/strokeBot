@@ -70,5 +70,5 @@ def main():
             message(msg.content, is_user = False, key = str(i) + "_ai")
 
 
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+main()
